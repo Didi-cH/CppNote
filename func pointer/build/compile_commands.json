@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/GitHub/C_C++_Note/func pointer/build",
+  "command": "C:/mingw64/bin/g++.exe   -g -o CMakeFiles/pFunc.dir/01.funcPointer_define.cpp.obj -c \"E:/GitHub/C_C++_Note/func pointer/01.funcPointer_define.cpp\"",
+  "file": "E:/GitHub/C_C++_Note/func pointer/01.funcPointer_define.cpp"
+}
+]
